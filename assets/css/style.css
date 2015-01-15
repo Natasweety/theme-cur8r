@@ -102,13 +102,13 @@ div.header {
   width: 100%;
   display: block;
   background-color: #ffffff;
-  color: #c85252;
+  color: #000000;
 }
 div.header h1.logo {
   float: left;
   font-size: 2rem;
-  color: #c85252;
   font-style: italic; bold; 
+  color: #195442;
   font-weight: 700;
   text-transform: none;
   padding: 30px 0 0 35px;
