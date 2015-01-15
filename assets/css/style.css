@@ -113,9 +113,8 @@ div.header h1.logo {
   display: inline-block;
   }
   
-  div.header h1.logo first-letter {
+  div.header h1.logo: first-letter {
     font-family: "Times New Roman", Times, serif; 
-    font-size: 200%; 
     color: red;
    }
   
