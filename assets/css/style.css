@@ -107,14 +107,14 @@ div.header {
 div.header h1.logo {
   float: left;
   font-size: 2rem;
-  font-style: italic; bold;
+  font-style: italic; 
   font-weight: 700;
   text-transform: none;
   padding: 30px 0 0 35px;
   display: inline-block;
   }
    div.header h1.logo a {
-  color: #02509d;
+  color: #464748;
 }
 div.header h1.logo a:hover {
   color: #44a084;
