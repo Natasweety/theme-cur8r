@@ -106,6 +106,7 @@ div.header {
 div.header h1.logo {
   float: left;
   font-size: 2rem;
+  color: #057efa;
   font-style: italic; bold;
   font-weight: 700;
   text-transform: none;
