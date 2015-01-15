@@ -112,11 +112,6 @@ div.header h1.logo {
   padding: 30px 0 0 35px;
   display: inline-block;
   }
-  
-  div.header h1.logo first-letter {
-    color: red;
-   }
-  
    div.header h1.logo a {
   color: #464748;
 }
