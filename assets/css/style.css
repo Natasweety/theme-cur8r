@@ -114,10 +114,10 @@ div.header h1.logo {
   display: inline-block;
   }
    div.header h1.logo a {
-  color: #464748;
+  color: #c40606;
 }
 div.header h1.logo a:hover {
-  color: #c40606;
+  color: #78ab46;
 }
 
 div.header ul.nav {
