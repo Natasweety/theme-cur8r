@@ -106,7 +106,7 @@ div.header {
 }
 div.header h1.logo {
   float: left;
-  font-size: 3rem;
+  font-size: 2rem;
   font-style: italic; 
   font-weight: 700;
   text-transform: none;
@@ -119,6 +119,12 @@ div.header h1.logo {
 div.header h1.logo a:hover {
   color: #44a084;
 }
+div.header h1.logo a:first-letter {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%; 
+    color: #c40606;
+   }
+
 div.header ul.nav {
   float: left;
   padding: 28px 0 0 45px;
