@@ -117,13 +117,8 @@ div.header h1.logo {
   color: #464748;
 }
 div.header h1.logo a:hover {
-  color: #44a084;
+  color: #c40606;
 }
-div.header h1.logo a:first-letter {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 200%; 
-    color: #c40606;
-   }
 
 div.header ul.nav {
   float: left;
