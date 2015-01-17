@@ -432,8 +432,9 @@ div.post {
   padding: 70px;
 }
 div.post h2 {
-  font-size: 3rem;
-  line-height: 4rem;
+  font-size: 2rem;
+  font-style: italic; 
+  line-height: 3rem;
 }
 div.post h2 a {
   color: #464748;
